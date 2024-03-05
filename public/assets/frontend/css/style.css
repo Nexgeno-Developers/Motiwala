@@ -6,7 +6,7 @@ body {
 }
 
 .heading_font {
-    font-family: "Prata", serif;
+    font-family: "Yeseva One", serif;
 }
 
 .main {
@@ -68,7 +68,7 @@ section.banner_section p {
 }
 
 section.banner_section img {
-    height: 598px !important;
+    height: 100vh !important;
     object-fit: cover;
     object-position: top;
 }
@@ -622,6 +622,7 @@ section.faq_section {
     box-shadow: inset 0 -1px 0 rgb(0 0 0 / 4%) !important;
     padding: 20px 20px;
     color: #404040 !important;
+    font-weight: 500;
 }
 
 .faq_section .accordion-body {
@@ -653,11 +654,17 @@ section.faq_section {
     border-left: 0 !important;
     width: 100%;
     color: #404040 !important;
-    padding: 16px 20px;
+    padding: 17.5px 20px;
 }
 
 #amountLabel span {
     display: block;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+label#amountLabel {
+    font-size: 14px;
 }
 
 .total_payment_text {
