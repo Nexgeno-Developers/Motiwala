@@ -1,4 +1,4 @@
-<header class="position-absolute w-100">
+<header class="position-absolute w-100 z-index-1">
 <nav class="navbar navbar-expand-lg ">
   <div class="container">
     <a class="navbar-brand" href="#"><img src="{{ asset('/assets/frontend/images/logo.png') }}"></a>

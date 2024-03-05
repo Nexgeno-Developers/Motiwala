@@ -6,6 +6,8 @@
 
 <!------------------- motiwala ---------------->
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/frontend/css/font-styles.css" >
 <link rel="stylesheet" href="/assets/frontend/css/style.css" />
 <link rel="stylesheet" href="/assets/frontend/css/responsive.css" />
 <link rel="stylesheet" href="/assets/frontend/css/bootstrap.min.css" />
