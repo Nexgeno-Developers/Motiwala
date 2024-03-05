@@ -9,6 +9,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/frontend/css/font-styles.css" >
 <link rel="stylesheet" href="/assets/frontend/css/style.css" />
+<!-- <link rel="stylesheet" href="/assets/frontend/css/aos.css" /> -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 <link rel="stylesheet" href="/assets/frontend/css/responsive.css" />
 <link rel="stylesheet" href="/assets/frontend/css/bootstrap.min.css" />
 <link rel="stylesheet" href="/assets/frontend/css/owl.carousel.min.css" />

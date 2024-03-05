@@ -8,7 +8,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
                 <div class="row">
                    
                     <div class="col-lg-2 col-md-6">
-                        <div class="footer-widget">
+                        <div class="footer-widget" data-aos-once="true" data-aos="fade-up">
                             <h3 class="widget-title">USEFUL LINKS</h3>
                             <ul class="widget-menu">
                                 <li><a href=""><i class="las la-angle-right"></i> Sign In</a></li>
@@ -22,7 +22,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
                     </div>
                     
                     <div class="col-lg-2 col-md-6">
-                        <div class="footer-widget">
+                        <div class="footer-widget" data-aos-once="true" data-aos="fade-up">
                             <h3 class="widget-title">My Account</h3>
                             <ul class="widget-menu">
                                 <li><a href=""><i class="las la-angle-right"></i> My Profile</a></li>
@@ -32,7 +32,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6">
-                        <div class="footer-widget">
+                        <div class="footer-widget" data-aos-once="true" data-aos="fade-up">
                             <h3 class="widget-title">Categories</h3>
                             <ul class="widget-menu">
                                 <li><a href=""><i class="las la-angle-right"></i> Rings</a></li>
@@ -44,7 +44,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
+                        <div class="footer-widget" data-aos-once="true" data-aos="fade-up">
                             <h4 class="heading_font line-height35">Download <br>Our App</h4>
                             <p>Shining new app, made just for you! It's Free, Easy & Smart</p>
                             
@@ -52,13 +52,13 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
                     </div>
 
                     <div class="col-lg-3 col-md-6">
-                        <div class="footer-app-image">
+                        <div class="footer-app-image" data-aos-once="true" data-aos="fade-up">
                           <img src="/assets/frontend/images/app_images.png" class="d-block w-100" alt="...">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6">
-                        <div class="footer-widget mt-5">
+                        <div class="footer-widget mt-5" data-aos-once="true" data-aos="fade-up">
                           <p class="pb-0 mb-0">Contact Us: 1800-255-10234</p>
                           <p>Email: care@motiwalasons.in</p>
                         </div>
@@ -66,9 +66,9 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
 
   <div class="col-lg-5 col-md-6">
         
-          <h6 class="font-alt mt-4 mb-3 heading_font font-size20">Subscribe to our Newsletter</h6>
+          <h6 class="font-alt mt-4 mb-3 heading_font font-size20" data-aos-once="true" data-aos="fade-up">Subscribe to our Newsletter</h6>
           <form class="form-subscribe" action="#">
-            <div class="input-group">
+            <div class="input-group" data-aos-once="true" data-aos="fade-up">
               <input type="text" class="form-control input-lg" placeholder="Write Your Email Address">
               <span class="input-group-btn">
                 <button class="btn btn-success btn-lg" type="submit" >Subscribe</button>

@@ -60,10 +60,10 @@ assistance for startups, FDI, Property law, IP, and more')
   <section class="steps_section">
     <div class="container">
       <div class="top_step_content">
-        <p class="text-center black_color">Aiming for that perfect necklace?</p>
-        <p class="text-center black_color">Open a Motiwala & Sons Golden Harvest account with an amount as low as <span> ₹2000. Regular payment of a fixed installment for 10 months will get you a </span> special discount of up to 75% of the 1st installment value paid</p>
-        <h4 class="title_heading text-center black_color pb-1 heading_font pt-4">4 Easy Steps </h4>
-        <p class="text-center black_color">to purchase the jewellery of your dreams</p>
+        <p class="text-center black_color" data-aos-once="true" data-aos="fade-up">Aiming for that perfect necklace?</p>
+        <p class="text-center black_color" data-aos-once="true" data-aos="fade-up">Open a Motiwala & Sons Golden Harvest account with an amount as low as <span> ₹2000. Regular payment of a fixed installment for 10 months will get you a </span> special discount of up to 75% of the 1st installment value paid</p>
+        <h4 class="title_heading text-center black_color pb-1 heading_font pt-4 " data-aos-once="true" data-aos="fade-up">4 Easy Steps </h4>
+        <p class="text-center black_color" data-aos-once="true" data-aos="fade-up">to purchase the jewellery of your dreams</p>
       </div>
       <div class="row">
         <div class="col-md-12">
@@ -74,7 +74,7 @@ assistance for startups, FDI, Property law, IP, and more')
         <div class="col-md-3">
           <div class="step_box steps1">
             <div class="step_content1">
-              <p class="black_color">Open a new account on the website, Motiwala & Sons app or in one of our 350+ stores.</p>
+              <p class="black_color" data-aos-once="true" data-aos="fade-right">Open a new account on the website, Motiwala & Sons app or in one of our 350+ stores.</p>
             </div>
             <div class="step_box_icon">
               <div class="step_box_img">
@@ -86,7 +86,7 @@ assistance for startups, FDI, Property law, IP, and more')
         <div class="col-md-3">
           <div class="step_box steps2">
             <div class="step_content2">
-              <p class="black_color">Pay a monthly installment of minimum ₹2000 or any greater multiples of ₹1000 for 10 months with cash/online banking using ACH / SI or Post dated cheque facilities</p>
+              <p class="black_color" data-aos-once="true" data-aos="fade-right">Pay a monthly installment of minimum ₹2000 or any greater multiples of ₹1000 for 10 months with cash/online banking using ACH / SI or Post dated cheque facilities</p>
             </div>
             <div class="step_box_icon">
               <div class="step_box_img">
@@ -98,7 +98,7 @@ assistance for startups, FDI, Property law, IP, and more')
         <div class="col-md-3">
           <div class="step_box steps3">
             <div class="step_content3">
-              <p class="black_color">Avail a special discount of upto 75% of the 1st installment value, at the time of redemption</p>
+              <p class="black_color" data-aos-once="true" data-aos="fade-left">Avail a special discount of upto 75% of the 1st installment value, at the time of redemption</p>
             </div>
             <div class="step_box_icon">
               <div class="step_box_img">
@@ -110,7 +110,7 @@ assistance for startups, FDI, Property law, IP, and more')
         <div class="col-md-3">
           <div class="step_box steps4">
             <div class="step_content4">
-              <p class="black_color">Own your favourite Motiwala & Sons jewellery with the total redemption value</p>
+              <p class="black_color" data-aos-once="true" data-aos="fade-left">Own your favourite Motiwala & Sons jewellery with the total redemption value</p>
             </div>
             <div class="step_box_icon">
               <div class="step_box_img">
@@ -121,9 +121,9 @@ assistance for startups, FDI, Property law, IP, and more')
         </div>
       </div>
 
-          <div class="step_bottom_text">
-              <p class="black_color text-center">“Bringing you the best quality jewelry, latest designs at an <span> affordable price, we bring over 100 years of industry <span> experience to you.”</p>
-              <div class="buttonclass mt-4">
+          <div class="step_bottom_text" >
+              <p class="black_color text-center" data-aos-once="true" data-aos="fade-up">“Bringing you the best quality jewelry, latest designs at an <span> affordable price, we bring over 100 years of industry <span> experience to you.”</p>
+              <div class="buttonclass mt-4" data-aos-once="true" data-aos="fade-up">
                 <a href="">Explore <i class="las la-arrow-right"></i>
                 </a>
               </div>
@@ -135,7 +135,7 @@ assistance for startups, FDI, Property law, IP, and more')
 
 
    <div class="container">
-    <div class="benefits_calculator sip-calculator">
+    <div class="benefits_calculator sip-calculator"  data-aos-once="true" data-aos="fade-up">
       <h4 class="title_heading text-center black_color pb-3 heading_font">Benefits Calculator</h4>
       <form>
         <div class="row">
@@ -218,7 +218,7 @@ assistance for startups, FDI, Property law, IP, and more')
       <h4 class="title_heading text-center black_color pb-4 heading_font">Why Choose Us ?</h4>
       <div class="row">
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4">
+          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/best_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Best Price Guarantee</h5>
@@ -227,7 +227,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4">
+          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/refer_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Refer and Earn</h5>
@@ -236,7 +236,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4">
+          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/earnings_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Motiwala Harvest</h5>
@@ -245,7 +245,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4">
+          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/certified_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">100% Certified Jewellery</h5>
@@ -254,7 +254,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4">
+          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/exchange_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Lifetime Exchange</h5>
@@ -263,7 +263,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4">
+          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
             <img class="choose_img" src="/assets/frontend/images/warranty_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">One Year Warranty</h5>
@@ -279,7 +279,7 @@ assistance for startups, FDI, Property law, IP, and more')
     <div class="container">
       <h4 class="title_heading text-center black_color pb-3 heading_font">Frequently Asked Questions</h4>
       <div class="accordion" id="accordionExample">
-        <div class="accordion-item">
+        <div class="accordion-item" data-aos-once="true" data-aos="fade-up">
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> Where can I buy ? </button>
           </h2>
@@ -289,7 +289,7 @@ assistance for startups, FDI, Property law, IP, and more')
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <div class="accordion-item" data-aos-once="true" data-aos="fade-up">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> What can I buy ? </button>
           </h2>
@@ -299,7 +299,7 @@ assistance for startups, FDI, Property law, IP, and more')
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <div class="accordion-item" data-aos-once="true" data-aos="fade-up">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Can I reedem and purchase before 11 months ? </button>
           </h2>
@@ -310,7 +310,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
 
-        <div class="accordion-item">
+        <div class="accordion-item" data-aos-once="true" data-aos="fade-up">
           <h2 class="accordion-header" id="headingFour">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> If I pay for 10 months, when will I get special discount ? </button>
           </h2>
@@ -321,7 +321,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
 
-        <div class="accordion-item">
+        <div class="accordion-item" data-aos-once="true" data-aos="fade-up">
           <h2 class="accordion-header" id="headingFive">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> What other benifits you get? </button>
           </h2>

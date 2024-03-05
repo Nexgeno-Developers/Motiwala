@@ -1,4 +1,6 @@
-// popup
+AOS.init({
+    duration: 1200,
+}); // popup
 
 function toggle() {
     var blur = document.getElementById("blur");

@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Quicksand", sans-serif !important;
-
+    overflow-x: hidden;
 }
 
 .heading_font {
@@ -76,13 +76,14 @@ section.banner_section img {
 .banner_section .carousel-caption {
     position: absolute;
     right: 15%;
-    bottom: 3.25rem;
+    bottom: 0;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
     color: #fff;
-    text-align: left;
-    width: 500px;
-    left: 4%;
+    width: 450px;
+    left: auto;
+    margin-right: 48% !important;
+    margin-bottom: 4%;
 }
 
 .buttonclass a {
