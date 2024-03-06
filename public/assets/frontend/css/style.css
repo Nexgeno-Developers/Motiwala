@@ -68,7 +68,6 @@ section.banner_section p {
 }
 
 section.banner_section img {
-    height: 100vh !important;
     object-fit: cover;
     object-position: top;
 }
