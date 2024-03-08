@@ -218,7 +218,7 @@ assistance for startups, FDI, Property law, IP, and more')
       <h4 class="title_heading text-center black_color pb-4 heading_font">Why Choose Us ?</h4>
       <div class="row">
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4 pb-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/best_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Best Price Guarantee</h5>
@@ -227,7 +227,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4 pb-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/refer_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Refer and Earn</h5>
@@ -236,7 +236,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 pb-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4 pb-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/earnings_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Motiwala Harvest</h5>
@@ -245,7 +245,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/certified_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">100% Certified Jewellery</h5>
@@ -254,7 +254,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/exchange_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">Lifetime Exchange</h5>
@@ -263,7 +263,7 @@ assistance for startups, FDI, Property law, IP, and more')
           </div>
         </div>
         <div class="col-md-4">
-          <div class="d-flex gap-4 data-aos-once="true" data-aos="fade-up"">
+          <div class="d-flex gap-4" data-aos-once="true" data-aos="fade-up">
             <img class="choose_img" src="/assets/frontend/images/warranty_icons.png" class="d-block w-100" alt="...">
             <div class="choose_content">
               <h5 class="black_color">One Year Warranty</h5>

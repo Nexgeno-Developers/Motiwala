@@ -156,12 +156,12 @@ class IndexController extends Controller
     public function contact_us(){
         return view('frontend.pages.contact.index');
     }
-    public function online_payment(){
-        return view('frontend.pages.payment.index');
+    public function information(){
+        return view('frontend.pages.information.index');
     }
 
-    public function career(){
-        return view('frontend.pages.career.index');
+    public function opennew_account(){
+        return view('frontend.pages.opennewaccount.index');
     }
 
     public function faq(){
@@ -169,8 +169,8 @@ class IndexController extends Controller
         return view('frontend.pages.faq.index', compact('faq'));
     }
 
-    public function about_us(){
-        return view('frontend.pages.about.index');
+    public function instantpay(){
+        return view('frontend.pages.instantpay.index');
     }
 
     public function privacy_policy(){

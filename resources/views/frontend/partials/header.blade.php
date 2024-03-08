@@ -8,18 +8,23 @@
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="d-flex navbar-nav ms-auto my-2 my-lg-0 nav_right_menu">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#"><i class="las la-user"></i> Sign In</a>
+          <a class="nav-link" data-bs-toggle="modal" href="#loginmodal"><i class="las la-user"></i> Sign In</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-user-plus"></i> New Account</a>
+          <a class="nav-link" href="/opennew-account"><i class="las la-user-plus"></i> New Account</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-hand-holding-usd"></i> Instant Pay</a>
+          <a class="nav-link" href="/instant-pay"><i class="las la-hand-holding-usd"></i> Instant Pay</a>
         </li>
 
          <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-credit-card"></i> Auto Debit</a>
+          <a class="nav-link" data-bs-toggle="modal" href="#autodebit_modal"><i class="las la-credit-card"></i> Auto Debit</a>
         </li>
+
+         <li class="nav-item">
+          <a class="nav-link" href="#"><i class="las la-exclamation-circle"></i> Information</a>
+        </li>
+
          <li class="nav-item">
           <a class="nav-link" href="#"><i class="las la-clipboard-list"></i> T&C</a>
         </li> <li class="nav-item">
