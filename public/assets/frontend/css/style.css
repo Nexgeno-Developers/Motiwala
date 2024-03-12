@@ -835,3 +835,63 @@ label#amountLabel {
     box-shadow: none !important;
     opacity: 1;
 }
+
+/*--- information page css--*/
+
+.information_box .step_box_icon {
+    background: #E3C2AB;
+    width: 55px;
+    border-radius: 100px;
+    margin-top: 8px;
+    transition: 0.3s all;
+    height: 55px;
+}
+
+.information_box .step_box_icon:hover .step_box_img {
+    top: 0;
+    left: 0;
+    border: 2px solid #e3c2ab;
+}
+
+.information_box .step_box_icon img {
+    transition: 0.3s all;
+    text-align: center;
+    width: 23px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 13px;
+}
+
+.information_box .step_box_img {
+    width: 55px;
+    height: 55px;
+    border: 1px solid #404040;
+    border-radius: 100px;
+    line-height: 55px;
+    text-align: center;
+    position: relative;
+    top: -5px;
+    left: 5px;
+    transition: 0.3s all;
+}
+
+.information_section p {
+    font-size: 15px;
+    padding-right: 0;
+}
+
+.information_tb tr {
+    border: 1px solid #333 !important;
+}
+
+.information_tb th,
+td {
+    font-size: 14px;
+    border: 0 !important;
+}
+
+.information_section {
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 160px;
+}
