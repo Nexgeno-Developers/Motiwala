@@ -22,7 +22,7 @@
         </li>
 
          <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-exclamation-circle"></i> Information</a>
+          <a class="nav-link" href="/information"><i class="las la-exclamation-circle"></i> Information</a>
         </li>
 
          <li class="nav-item">
