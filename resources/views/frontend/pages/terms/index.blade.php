@@ -1,48 +1,41 @@
-@extends('frontend.layouts.app')
+    @extends('frontend.layouts.app')
 
-@section('page.title', 'Seedling Associates: Top Lawyers &amp; Law Firms in Delhi, India')
+@section('page.title', 'Motiwala')
 
-@section('page.description', 'Seedling & Associates is one of the best law firms in Delhi, India. We provide legal assistance for startups, FDI, Property law, IP, and more')
+@section('page.description', 'Motiwala')
 
 @section('page.type', 'website')
 
 @section('page.content')
-    <!-- -------------------- blog banner start ---------------- -->
 
-    <section class="blog_banner breadcrumes_padd">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="text-center">
-                        <h1 class="breadcrumb_heading">Terms Of Use</h1>
-                        <nav aria-label="breadcrumb" class="breadcrumb d-flex justify-content-center mb-0">
-                            <ol class="breadcrumb mb-0">
-                                <li class="breadcrumb-item ">
-                                    <a href="{{ url(route('index')) }}" data-aos="fade-up" data-aos-once="true">Home</a>
-                                </li>
-                                <li class="breadcrumb-item home" aria-current="page">
-                                Terms Of Use
-                                </li>
-                            </ol>
-                        </nav>
-                    </div>
+<!-- -------------------- Terms  start ---------------- -->
+
+<section class="inner_page_banner">
+     <img src="/assets/frontend/images/innwe_imagebanner.jpg" class="d-block w-100" alt="...">
+</section>
+
+
+<!-- -------------------- privacy content  start ---------------- -->  
+
+<main class="main">
+	<section class="pt-5 terms_section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h4 class="title_heading text-center black_color pb-0 heading_font">GOLDEN HARVEST JEWELLERY PURCHASE PLAN</h4>
+				   <h5 class="black_color text-center pb-4">TERMS AND CONDITIONS</h5>
                 </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- -------------------- blog banner end   ---------------- -->
-    <!-- -------------------- privacy content  start ---------------- -->
-
-    <section class="privacy_content mb-3 mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 padd00mb">
-                    @php echo html_entity_decode(get_settings('terms_content')) @endphp   
+				<div class="col-md-12">
+				    @php echo html_entity_decode(get_settings('terms_content')) @endphp   	
                 </div>
-            </div>
-        </div>
-    </section>
+
+		
+		
+		  </div>
+		</div>
+	</section>
+</main>
 
     <!-- -------------------- privacy content  end   ---------------- -->
 

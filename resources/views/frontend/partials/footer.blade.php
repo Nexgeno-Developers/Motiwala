@@ -119,7 +119,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
         <div class="col-md-4">
           <ul>
             <li>
-              <a href=""> Term of Use</a>
+              <a href="/terms"> Term of Use</a>
             </li>
             <li>|</li>
             <li>
@@ -127,7 +127,7 @@ $practice_Area = DB::table('practice_areas')->where('parent_id', null)->limit(4)
             </li>
             <li>|</li>
             <li>
-              <a href=""> Give Us Feednack</a>
+              <a href=""> Give Us Feedback</a>
             </li>
           </ul>
         </div>

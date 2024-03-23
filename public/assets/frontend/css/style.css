@@ -876,7 +876,7 @@ label#amountLabel {
 }
 
 .information_section p {
-    font-size: 15px;
+    font-size: 16px;
     padding-right: 0;
 }
 
@@ -893,5 +893,9 @@ td {
 .information_section {
     padding-left: 150px;
     padding-right: 150px;
+    padding-bottom: 160px;
+}
+
+.terms_section {
     padding-bottom: 160px;
 }

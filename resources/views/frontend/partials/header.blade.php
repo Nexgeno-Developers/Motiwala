@@ -26,9 +26,9 @@
         </li>
 
          <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-clipboard-list"></i> T&C</a>
+          <a class="nav-link" href="/terms"><i class="las la-clipboard-list"></i> T&C</a>
         </li> <li class="nav-item">
-          <a class="nav-link" href="#"><i class="las la-question-circle"></i> FAQs</a>
+          <a class="nav-link" href="/faq"><i class="las la-question-circle"></i> FAQs</a>
         </li>
     
       </ul>
